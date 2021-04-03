@@ -1,4 +1,4 @@
-### Hi!
+### Hi! I'm a grad student majoring in conservation ecology in Japan, and iNaturalsit curator.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchiyama8712)](https://github.com/anuraghazra/github-readme-stats)
 
