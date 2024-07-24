@@ -1,6 +1,6 @@
 ### Hi! I'm a grad student majoring in conservation ecology in Japan, and a member of iNaturalist curator.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchiyama8712)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-mu-tawny-71.vercel.app/api/top-langs/?username=yuchiyama8712)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yuchiyama8712/yuchiyama8712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
