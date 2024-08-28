@@ -1,4 +1,4 @@
-### Hi! I'm a grad student majoring in conservation ecology in Japan, and a member of iNaturalist curator.
+### Hi! I'm studying forest and grassland ecology in Japan and am a member of the iNaturalist Curator.
 
 ![Y.Uchiyama's GitHub stats](https://github-readme-stats-mu-tawny-71.vercel.app/api?username=yuchiyama8712&show_icons=true&theme=shadowblue&count_private=true)
 ![Top Langs](https://github-readme-stats-mu-tawny-71.vercel.app/api/top-langs/?username=yuchiyama8712&layout=compact&count_private=true)
